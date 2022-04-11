@@ -29,5 +29,3 @@
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIMPfiction&theme=tokyonight)
