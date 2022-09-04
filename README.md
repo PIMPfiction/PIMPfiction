@@ -2,6 +2,7 @@
 - I’m interested in Software Development, CyberSecurity, Machine Learning
 - Vats Proxy Python Library [![PyPI](https://shields.io/pypi/v/vats_proxy.svg?color=blue)](https://pypi.python.org/pypi/vats_proxy)
 - GoVader-Backend Sentimental Analysis Microservice Package [![Go Reference](https://pkg.go.dev/badge/github.com/PIMPfiction/govader_backend.svg)](https://pkg.go.dev/github.com/PIMPfiction/govader_backend) [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go#morphological-analyzers) 
+- GithubWorkflow that Auto Tags and Auto Releases your Commits [![market](https://img.shields.io/badge/Get_it-on_the_Marketplace-informational.svg)](https://github.com/marketplace/actions/autotagversionrelease)
 
 <img alt="tensorflow meme" src="https://raw.githubusercontent.com/PIMPfiction/PIMPfiction/master/tensorflow.jpg" align="right"/>
 
